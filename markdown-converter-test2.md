@@ -8,3 +8,6 @@ This is some simple text:
 | Lorem | 1.  This is an intro sentence<br>    <br>2.  This is sentence number two |
 | Testtest | *   This is an intro sentence<br>    <br>*   This is sentence number two |
 | Test | *   This is an intro sentence<br>    <br>*   This is sentence number two |
+
+- bullet test
+- bullet test 2
